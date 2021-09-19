@@ -101,10 +101,20 @@ The work for this is done by the following script:
 - School summary impact:  The only row impacted in this dataframe was the row for Thomas High School.  See the list below for a summary of the changes.
     - Average Math Score decreased by .06 points
     - Average Reading Score increased by .05 points
-    - % Passing Math decreased by 26.4%
-    - % Passing Reading deceased by 27.6%
-    - % Overall Passing decreased by 25.9%
+    - % Passing Math decreased by .1%
+    - % Passing Reading deceased by .3%
+    - % Overall Passing decreased by .3%
     
-- Top 5 schools did not change order
+- Top 5 schools did not change order but the same values summarized in the school summary impact changed for Thomas High School.
 
-- Bottom 5 schools did not change order
+- Bottom 5 schools did not change.
+
+- Average reading scores by grade are now null for Thomas High School 9th grade otherwise the sores remain the same.
+
+- Average math scores by grade are now null for Thomas High School 9th grade otherwise the sores remain the same.
+
+- Scores by per student spending were not impacted
+
+- Scores by school size were not impacted
+
+- Scores by shcool type were not impacted
