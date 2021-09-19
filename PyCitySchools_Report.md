@@ -89,3 +89,22 @@ The work for this is done by the following script:
     - Corrected
     
     ![](Resources/Updated_by_type.png)
+    
+## Summary
+
+- School district impact:  As you can see from above replacing the Thomas High School 9th grade scores with null values only slightly decreased our metrics.  See a summary of the movements in the list below.  Overall at the district level this did not significantly change results.
+    - Average Math Score decrease by .1 point
+    - % Passing Math decreased by .2 percent
+    - % Passing Reading decreased by .1%
+    - % Overall Passing decreased by .3%
+    
+- School summary impact:  The only row impacted in this dataframe was the row for Thomas High School.  See the list below for a summary of the changes.
+    - Average Math Score decreased by .06 points
+    - Average Reading Score increased by .05 points
+    - % Passing Math decreased by 26.4%
+    - % Passing Reading deceased by 27.6%
+    - % Overall Passing decreased by 25.9%
+    
+- Top 5 schools did not change order
+
+- Bottom 5 schools did not change order
